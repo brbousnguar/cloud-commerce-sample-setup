@@ -2,6 +2,8 @@
 .metadata
 **/gensrc
 
+hybris
+
 #IDE files
 .gradle
 .idea
